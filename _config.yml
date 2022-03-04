@@ -1,4 +1,4 @@
-remote_theme: minimal-mistakes-jekyll 
+theme: minimal-mistakes-jekyll 
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
