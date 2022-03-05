@@ -1,9 +1,9 @@
 ---
-title: "Authors"
+title: "Список стран"
 layout: page
 permalink: /inbox
-sidebar: 
-    nav: "docs"
+sidebar:
+  nav: "docs"
 ---
 
-ytutyutyuxxxxxxxxxxxxxxxxxxxx
+# Список стран
