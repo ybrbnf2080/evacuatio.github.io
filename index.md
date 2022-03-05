@@ -10,7 +10,6 @@ sidebar:
 
 _Открытый информационный проект_
 
-- [Сайт](https://evacuatio.github.io/)
 - [Канал с новостями для беженцев](https://t.me/evacuatio_github_io)
 - [Группа волонтёров](https://t.me/+FHi3FnJaoWJkMDAx) (СРОЧНО нужна помощь)
 
