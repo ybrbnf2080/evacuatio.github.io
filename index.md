@@ -19,7 +19,6 @@ sidebar:
 
 - Найти человека с нероссийской картой, который поможет купить домен, поскольку оставаться на домене третьего уровня предоставляемого GitHub - опасно.
 - Сделать адаптив для шапки. Можно `style=` прямо в коде писать. Просто поток флекса поменять. [Файл здесь](https://github.com/evacuatio/evacuatio.github.io/blob/main/_includes/masthead.html).
-- Сделать [боковое меню](https://github.com/evacuatio/evacuatio.github.io/blob/main/_data/navigation.yml) с ссылками на страницы стран, отсортированных по ИЧР.
 - Сделать [шаблон-анкету](/template)
 - Собрать список русскоязычных групп и их админов для каждой страны в [Google-таблице](https://docs.google.com/spreadsheets/d/1vuoogP1nlUmw7ukAzaFD5Ck1Hp2oFY4Q25J89x4ZP3Y/edit?usp=sharing) для того, что бы попросить их в дальнейшем заполнить страницу по шаблону-анкете.
 - Узнать как в [нашем движке](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) сделать ссылку "Редактировать страницу на GitHub" на каждой странице.
