@@ -55,7 +55,7 @@ docs:
         url: /country/spain
       - title: Франция
         url: /country/france
-      - title: Чешская Республика
+      - title: Чехия
         url: /country/czech-republic
       - title: Мальта
         url: /country/malta
@@ -112,7 +112,7 @@ docs:
         url: /country/kuwait
       - title: Сербия
         url: /country/serbia
-      - title: Сейшельские острова
+      - title: Сейшелы
         url: /country/seychelles
       - title: Албания
         url: /country/albania
@@ -128,7 +128,7 @@ docs:
         url: /country/peru
       - title: Таиланд
         url: /country/thailand
-      - title: Северная Македония
+      - title: Македония
         url: /country/northmacedonia
       - title: Колумбия
         url: /country/colombia
@@ -138,7 +138,7 @@ docs:
         url: /country/china
       - title: Эквадор
         url: /country/ecuador
-      - title: Доминиканская Респблика
+      - title: Домикана
         url: /country/dominicanrepublic
       - title: Алжир
         url: /country/algeria
