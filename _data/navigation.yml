@@ -36,7 +36,7 @@ docs:
       - title: Бельгия
         url: /country/belgium
       - title: Новая Зеландия
-        url: /country/new-zealand
+        url: /country/newzealand
       - title: Канада
         url: /country/canada
       - title: США
@@ -56,7 +56,7 @@ docs:
       - title: Франция
         url: /country/france
       - title: Чехия
-        url: /country/czech-republic
+        url: /country/czechrepublic
       - title: Мальта
         url: /country/malta
       - title: Эстония
