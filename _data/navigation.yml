@@ -14,7 +14,7 @@ docs:
       - title: Швейцария
         url: /country/switzerland
       - title: Гонконг
-        url: /country/hong-kong
+        url: /country/hongkong
       - title: Исландия
         url: /country/iceland
       - title: Германия
@@ -31,16 +31,16 @@ docs:
         url: /country/finland
       - title: Сингапур
         url: /country/singapore
-      - title: Соединенное Королевство
-        url: /country/united-kingdom
+      - title: Великобритания
+        url: /country/unitedkingdom
       - title: Бельгия
         url: /country/belgium
       - title: Новая Зеландия
         url: /country/new-zealand
       - title: Канада
         url: /country/canada
-      - title: Соединенные Штаты
-        url: /country/united-states
+      - title: США
+        url: /country/unitedstates
       - title: Австрия
         url: /country/austria
       - title: Израиль
@@ -50,12 +50,12 @@ docs:
       - title: Словения
         url: /country/slovenia
       - title: Южная Корея
-        url: /country/south-korea
+        url: /country/southkorea
       - title: Испания
         url: /country/spain
       - title: Франция
         url: /country/france
-      - title: Чешская Республика
+      - title: Чехия
         url: /country/czech-republic
       - title: Мальта
         url: /country/malta
@@ -63,11 +63,10 @@ docs:
         url: /country/estonia
       - title: Италия
         url: /country/italy
-      - title: Объединенные Арабские Эмираты
-        url: /country/united-arab-emirates
+      - title: ОАЭ
+        url: /country/unitedarabemirates
       - title: Греция
         url: /country/greece
-      - title: Кипр
         url: /country/cyprus
       - title: Литва
         url: /country/lithuania
@@ -82,7 +81,7 @@ docs:
       - title: Венгрия
         url: /country/hungary
       - title: Саудовская Аравия
-        url: /country/saudi-arabia
+        url: /country/saudiarabia
       - title: Чили
         url: /country/chile
       - title: Хорватия
@@ -106,31 +105,31 @@ docs:
       - title: Грузия
         url: /country/georgia
       - title: Коста-Рика
-        url: /country/costa-rica
+        url: /country/costarica
       - title: Малайзия
         url: /country/malaysia
       - title: Кувейт
         url: /country/kuwait
       - title: Сербия
         url: /country/serbia
-      - title: Сейшельские острова
+      - title: Сейшелы
         url: /country/seychelles
       - title: Албания
         url: /country/albania
       - title: Куба
         url: /country/cuba
       - title: Шри-Ланка
-        url: /country/sri lanka
+        url: /country/srilanka
       - title: Босния и Герцеговина
-        url: /country/bosnia-and-herzegovina
+        url: /country/bosniaandherzegovina
       - title: Мексика
         url: /country/mexico
       - title: Перу
         url: /country/peru
       - title: Таиланд
         url: /country/thailand
-      - title: Северная Македония
-        url: /country/north-macedonia
+      - title: Македония
+        url: /country/northmacedonia
       - title: Колумбия
         url: /country/colombia
       - title: Бразилия
@@ -139,8 +138,8 @@ docs:
         url: /country/china
       - title: Эквадор
         url: /country/ecuador
-      - title: Доминиканская Респблика
-        url: /country/dominican-republic
+      - title: Домикана
+        url: /country/dominicanrepublic
       - title: Алжир
         url: /country/algeria
       - title: Ливан
@@ -162,7 +161,7 @@ docs:
       - title: Белиз
         url: /country/belize
       - title: ЮАР
-        url: /country/south-africa
+        url: /country/southafrica
       - title: Египет
         url: /country/egypt
       - title: Вьетнам
