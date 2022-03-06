@@ -7,4 +7,7 @@ main:
 docs:
   - title: Страны по ИЧР
     children:
-      - title: "Здесь будет список стран, отсортированных по индексу человеческого развития."
+      - title: Норвегия
+        url: /country/norway
+      - title: Ирландия
+        url: /country/ireland
