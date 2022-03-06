@@ -31,7 +31,7 @@ docs:
         url: /country/finland
       - title: Сингапур
         url: /country/singapore
-      - title: Соединенное Королевство
+      - title: Великобритания
         url: /country/unitedkingdom
       - title: Бельгия
         url: /country/belgium
@@ -39,7 +39,7 @@ docs:
         url: /country/new-zealand
       - title: Канада
         url: /country/canada
-      - title: Соединенные Штаты
+      - title: США
         url: /country/unitedstates
       - title: Австрия
         url: /country/austria
@@ -63,11 +63,10 @@ docs:
         url: /country/estonia
       - title: Италия
         url: /country/italy
-      - title: Объединенные Арабские Эмираты
+      - title: ОАЭ
         url: /country/unitedarabemirates
       - title: Греция
         url: /country/greece
-      - title: Кипр
         url: /country/cyprus
       - title: Литва
         url: /country/lithuania
