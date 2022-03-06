@@ -3,7 +3,7 @@ title: "Как иммигрировать в Вьетнам"
 layout: page
 permalink: /country/vietnam
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Вьетнам

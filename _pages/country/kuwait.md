@@ -3,7 +3,7 @@ title: "Как иммигрировать в Кувейт"
 layout: page
 permalink: /country/kuwait
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Кувейт

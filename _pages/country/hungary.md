@@ -3,7 +3,7 @@ title: "Как иммигрировать в Венгрия"
 layout: page
 permalink: /country/hungary
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Венгрия

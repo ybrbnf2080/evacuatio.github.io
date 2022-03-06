@@ -3,7 +3,7 @@ title: "Как иммигрировать в Новая Зеландия"
 layout: page
 permalink: /country/newzealand
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Новая Зеландия

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Малайзия"
 layout: page
 permalink: /country/malaysia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Малайзия

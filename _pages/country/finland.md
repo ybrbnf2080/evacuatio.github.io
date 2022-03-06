@@ -3,7 +3,7 @@ title: "Как иммигрировать в Финляндия"
 layout: page
 permalink: /country/finland
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Финляндия

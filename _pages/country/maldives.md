@@ -3,7 +3,7 @@ title: "Как иммигрировать в Мальдивы"
 layout: page
 permalink: /country/maldives
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Мальдивы

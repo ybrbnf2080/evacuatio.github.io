@@ -3,7 +3,7 @@ title: "Как иммигрировать в Израиль"
 layout: page
 permalink: /country/israel
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Израиль

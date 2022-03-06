@@ -3,7 +3,7 @@ title: "Как иммигрировать в Польша"
 layout: page
 permalink: /country/poland
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Польша

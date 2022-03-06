@@ -3,7 +3,7 @@ title: "Как иммигрировать в Румыния"
 layout: page
 permalink: /country/romania
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Румыния

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Сингапур"
 layout: page
 permalink: /country/singapore
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Сингапур

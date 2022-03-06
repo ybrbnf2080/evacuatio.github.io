@@ -3,7 +3,7 @@ title: "Как иммигрировать в Австралия"
 layout: page
 permalink: /country/australia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Австралия

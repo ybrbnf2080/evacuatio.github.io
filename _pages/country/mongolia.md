@@ -3,7 +3,7 @@ title: "Как иммигрировать в Монголия"
 layout: page
 permalink: /country/mongolia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Монголия

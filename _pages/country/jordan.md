@@ -3,7 +3,7 @@ title: "Как иммигрировать в Иордания"
 layout: page
 permalink: /country/jordan
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Иордания

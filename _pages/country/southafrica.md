@@ -3,7 +3,7 @@ title: "Как иммигрировать в ЮАР"
 layout: page
 permalink: /country/southafrica
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в ЮАР

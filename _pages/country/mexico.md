@@ -3,7 +3,7 @@ title: "Как иммигрировать в Мексика"
 layout: page
 permalink: /country/mexico
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Мексика

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Чешская Республика
 layout: page
 permalink: /country/czechrepublic
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Чешская Республика

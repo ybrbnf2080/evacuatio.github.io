@@ -3,7 +3,7 @@ title: "Как иммигрировать в Доминиканская Респ
 layout: page
 permalink: /country/dominicanrepublic
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Доминиканская Респблика

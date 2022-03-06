@@ -3,7 +3,7 @@ title: "Как иммигрировать в Кипр"
 layout: page
 permalink: /country/cyprus
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Кипр

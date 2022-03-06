@@ -3,7 +3,7 @@ title: "Как иммигрировать в Литва"
 layout: page
 permalink: /country/lithuania
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Литва

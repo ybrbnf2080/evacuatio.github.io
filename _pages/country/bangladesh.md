@@ -3,7 +3,7 @@ title: "Как иммигрировать в Бангладеш"
 layout: page
 permalink: /country/bangladesh
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Бангладеш

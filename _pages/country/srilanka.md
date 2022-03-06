@@ -3,7 +3,7 @@ title: "Как иммигрировать в Шри-Ланка"
 layout: page
 permalink: /country/srilanka
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Шри-Ланка

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Объединенные Арабс
 layout: page
 permalink: /country/unitedarabemirates
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Объединенные Арабские Эмираты

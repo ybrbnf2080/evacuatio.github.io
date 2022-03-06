@@ -3,7 +3,7 @@ title: "Как иммигрировать в Ливан"
 layout: page
 permalink: /country/lebanon
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Ливан

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Норвегия"
 layout: page
 permalink: /country/norway
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Норвегия

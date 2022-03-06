@@ -3,7 +3,7 @@ title: "Как иммигрировать в Словения"
 layout: page
 permalink: /country/slovenia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Словения

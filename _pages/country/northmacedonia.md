@@ -3,7 +3,7 @@ title: "Как иммигрировать в Северная Македония
 layout: page
 permalink: /country/northmacedonia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Северная Македония

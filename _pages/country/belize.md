@@ -3,7 +3,7 @@ title: "Как иммигрировать в Белиз"
 layout: page
 permalink: /country/belize
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Белиз

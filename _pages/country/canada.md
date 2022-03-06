@@ -3,7 +3,7 @@ title: "Как иммигрировать в Канада"
 layout: page
 permalink: /country/canada
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Канада

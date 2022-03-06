@@ -3,7 +3,7 @@ title: "Как иммигрировать в Испания"
 layout: page
 permalink: /country/spain
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Испания

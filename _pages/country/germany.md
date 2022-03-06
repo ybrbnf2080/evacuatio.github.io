@@ -3,7 +3,7 @@ title: "Как иммигрировать в Германия"
 layout: page
 permalink: /country/germany
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Германия

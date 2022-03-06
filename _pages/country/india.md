@@ -3,7 +3,7 @@ title: "Как иммигрировать в Индия"
 layout: page
 permalink: /country/india
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Индия

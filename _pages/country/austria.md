@@ -3,7 +3,7 @@ title: "Как иммигрировать в Австрия"
 layout: page
 permalink: /country/austria
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Австрия

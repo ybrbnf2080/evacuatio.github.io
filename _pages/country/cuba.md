@@ -3,7 +3,7 @@ title: "Как иммигрировать в Куба"
 layout: page
 permalink: /country/cuba
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Куба

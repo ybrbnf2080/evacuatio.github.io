@@ -3,7 +3,7 @@ title: "Как иммигрировать в Мальта"
 layout: page
 permalink: /country/malta
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Мальта

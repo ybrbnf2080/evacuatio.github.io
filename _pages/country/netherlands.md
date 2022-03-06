@@ -3,7 +3,7 @@ title: "Как иммигрировать в Нидерланды"
 layout: page
 permalink: /country/netherlands
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Нидерланды

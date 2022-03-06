@@ -3,7 +3,7 @@ title: "Как иммигрировать в Панама"
 layout: page
 permalink: /country/panama
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Панама

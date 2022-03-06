@@ -3,7 +3,7 @@ title: "Как иммигрировать в Швеция"
 layout: page
 permalink: /country/sweden
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Швеция

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Парагвай"
 layout: page
 permalink: /country/paraguay
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Парагвай

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Япония"
 layout: page
 permalink: /country/japan
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Япония

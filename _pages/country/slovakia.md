@@ -3,7 +3,7 @@ title: "Как иммигрировать в Словакия"
 layout: page
 permalink: /country/slovakia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Словакия

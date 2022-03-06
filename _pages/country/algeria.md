@@ -3,7 +3,7 @@ title: "Как иммигрировать в Алжир"
 layout: page
 permalink: /country/algeria
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Алжир

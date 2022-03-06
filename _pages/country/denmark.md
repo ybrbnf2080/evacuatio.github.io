@@ -3,7 +3,7 @@ title: "Как иммигрировать в Дания"
 layout: page
 permalink: /country/denmark
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Дания

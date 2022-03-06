@@ -3,7 +3,7 @@ title: "Как иммигрировать в Италия"
 layout: page
 permalink: /country/italy
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Италия

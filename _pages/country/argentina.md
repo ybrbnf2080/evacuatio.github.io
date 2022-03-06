@@ -3,7 +3,7 @@ title: "Как иммигрировать в Аргентина"
 layout: page
 permalink: /country/argentina
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Аргентина

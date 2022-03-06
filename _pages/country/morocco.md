@@ -3,7 +3,7 @@ title: "Как иммигрировать в Марокко"
 layout: page
 permalink: /country/morocco
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Марокко

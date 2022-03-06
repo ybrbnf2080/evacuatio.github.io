@@ -3,7 +3,7 @@ title: "Как иммигрировать в Хорватия"
 layout: page
 permalink: /country/croatia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Хорватия

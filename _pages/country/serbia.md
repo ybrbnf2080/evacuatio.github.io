@@ -3,7 +3,7 @@ title: "Как иммигрировать в Сербия"
 layout: page
 permalink: /country/serbia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Сербия

@@ -3,7 +3,7 @@ title: "Как иммигрировать в Индонезия"
 layout: page
 permalink: /country/indonesia
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Индонезия

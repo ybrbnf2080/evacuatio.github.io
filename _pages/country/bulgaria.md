@@ -3,7 +3,7 @@ title: "Как иммигрировать в Болгария"
 layout: page
 permalink: /country/bulgaria
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Болгария

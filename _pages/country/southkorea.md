@@ -3,7 +3,7 @@ title: "Как иммигрировать в Южная Корея"
 layout: page
 permalink: /country/southkorea
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Южная Корея

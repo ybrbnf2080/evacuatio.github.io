@@ -3,7 +3,7 @@ title: "Как иммигрировать в Бразилия"
 layout: page
 permalink: /country/brazil
 sidebar:
-nav: "docs"
+  nav: "docs"
 ---
 
 # Как иммигрировать в Бразилия
