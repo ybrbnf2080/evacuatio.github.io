@@ -1,19 +1,19 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+  <div class="masthead__inner-wrap" style="display:block;">
+    <div class="masthead__menu" style="display:block;">
       <nav id="site-nav" class="greedy-nav">
-        <div>
+        <div >
           <a href="{{ site.url }}">
             <b style="font-size: 1rem">ИНФОРМАЦИЯ ДЛЯ БЕЖЕНЦЕВ</b><br />
             <i style="font-size: 0.7rem">Открытый wiki-проект</i>
           </a>
         </div>
 
-        <ul class="visible-links">
+        <ul class="cust-visible-links">
           {%- for link in site.data.navigation.main -%}
-          <li class="masthead__menu-item">
+          <li class="masthead__menu-item" >
             <a
               href="{{ link.url | relative_url }}"
               {%

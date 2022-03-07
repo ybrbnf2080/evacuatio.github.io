@@ -59,17 +59,17 @@
 }
 
 .masthead__menu {
-  float: left;
+  //float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  clear: both;
-
-  .site-nav {
+  display: flex;
+  flex-wrap:wrap;
+  .site-nav { 
     margin-left: 0;
 
     @include breakpoint($small) {
-      float: right;
+      //float: right;
     }
   }
 
@@ -81,13 +81,17 @@
   }
 }
 
+
 .masthead__menu-item {
   display: block;
-  list-style-type: none;
-  white-space: nowrap;
+  flex-grow: 1;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
   }
+}
+.cust-visible-links{
+  display: flex;
+  
 }

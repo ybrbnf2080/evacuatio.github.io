@@ -1,0 +1,18 @@
+version: '3.3'
+
+services:
+  nginx:
+    build: ./nginx
+    ports:
+      - 8012:80
+    volumes:
+      - ./nginx:/etc/nginx
+      - ./_site:/www/static
+    depends_on:
+      - builder
+
+  builder:
+    build: ./
+    volumes:
+      - ./:/usr/src/app
+    
