@@ -13,4 +13,4 @@ RUN bundle install
 
 #COPY . .
 
-CMD ["bundle" ,"exec" ,"jekyll" ,"serve", "--livereload"]
+CMD ["bundle" ,"exec" ,"jekyll" ,"build" ]

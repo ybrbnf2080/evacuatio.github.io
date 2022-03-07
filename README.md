@@ -9,13 +9,13 @@ _Открытый информационный проект_
 
 ## Локальный запуск
 
-- Устновить [ruby](https://www.ruby-lang.org/en/documentation/installation/);
-- Установаить [jekyll](https://jekyllrb.com/docs/installation/);
+- Установить [ruby](https://www.ruby-lang.org/en/documentation/installation/);
+- Установить [jekyll](https://jekyllrb.com/docs/installation/);
 
 _После установки всех пакетов необходимо установить все зависимости (из папки проекта):_
 
 ```bash
-bundle update
+bundle update && 
 bundle install
 ```
 
@@ -30,6 +30,27 @@ _Запуск с hot reload (из папки проекта)_
 ```bash
 bundle exec jekyll serve --livereload
 ```
+
+## Деплой запуск
+
+- Установить [docker](https://docs.docker.com/engine/install/) и [docker-compose](https://docs.docker.com/compose/install/);
+- Установка зависимостей не обязательна;
+
+_Запуск с использоваием docker-compose (из папки проекта):_
+
+```bash
+docker-compose up -d
+```
+
+>Докер соберёт проект, и примонтирует папку с ним к запускаемому nginx.
+
+_Отдельная сборка проекта с использоваием docker-compose (из папки проекта):_
+
+```bash
+docker-compose start builder
+```
+
+>Докер соберёт проект в папку _site.
 
 ## Предложить изменения на сайте
 
