@@ -79,18 +79,19 @@
     clear: both;
     list-style-type: none;
   }
-  
-  .masthead__menu-item {
-    display: block;
-    flex-grow: 1;
-  
-    &--lg {
-      padding-right: 2em;
-      font-weight: 700;
-    }
+}
+
+
+.masthead__menu-item {
+  display: block;
+  flex-grow: 1;
+
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
   }
-  .cust-visible-links{
-    display: flex;
-    
-  }
+}
+.cust-visible-links{
+  display: flex;
+  
 }
