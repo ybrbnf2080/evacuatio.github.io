@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Гонконг"
-layout: page
+layout: country
 permalink: /country/hongkong
 sidebar:
   nav: "docs"

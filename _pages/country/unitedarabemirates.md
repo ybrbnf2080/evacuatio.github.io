@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Объединенные Арабские Эмираты"
-layout: page
+layout: country
 permalink: /country/unitedarabemirates
 sidebar:
   nav: "docs"

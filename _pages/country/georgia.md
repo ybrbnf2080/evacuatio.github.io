@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Грузию"
-layout: page
+layout: country
 permalink: /country/georgia
 sidebar:
   nav: "docs"

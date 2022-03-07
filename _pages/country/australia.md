@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Австралию"
-layout: page
+layout: country
 permalink: /country/australia
 sidebar:
   nav: "docs"

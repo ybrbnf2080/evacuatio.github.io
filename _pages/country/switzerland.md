@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Швейцарию"
-layout: page
+layout: country
 permalink: /country/switzerland
 sidebar:
   nav: "docs"

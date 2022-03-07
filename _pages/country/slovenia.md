@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Словению"
-layout: page
+layout: country
 permalink: /country/slovenia
 sidebar:
   nav: "docs"

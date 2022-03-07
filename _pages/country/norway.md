@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Норвегию"
-layout: page
+layout: country
 permalink: /country/norway
 sidebar:
   nav: "docs"

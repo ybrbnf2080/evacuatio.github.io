@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать на Кубу"
-layout: page
+layout: country
 permalink: /country/cuba
 sidebar:
   nav: "docs"

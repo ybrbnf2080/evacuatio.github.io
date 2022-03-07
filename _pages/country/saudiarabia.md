@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Саудовскую Аравию"
-layout: page
+layout: country
 permalink: /country/saudiarabia
 sidebar:
   nav: "docs"

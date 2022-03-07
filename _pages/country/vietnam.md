@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать во Вьетнам"
-layout: page
+layout: country
 permalink: /country/vietnam
 sidebar:
   nav: "docs"

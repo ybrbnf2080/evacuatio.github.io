@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать во Францию"
-layout: page
+layout: country
 permalink: /country/france
 sidebar:
   nav: "docs"

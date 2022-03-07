@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Данию"
-layout: page
+layout: country
 permalink: /country/denmark
 sidebar:
   nav: "docs"

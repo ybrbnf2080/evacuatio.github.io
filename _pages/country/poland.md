@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Польшу"
-layout: page
+layout: country
 permalink: /country/poland
 sidebar:
   nav: "docs"

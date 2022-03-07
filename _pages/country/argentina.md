@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Аргентина"
-layout: page
+layout: country
 permalink: /country/argentina
 sidebar:
   nav: "docs"

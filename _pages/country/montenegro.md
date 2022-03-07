@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Черногорию"
-layout: page
+layout: country
 permalink: /country/montenegro
 sidebar:
   nav: "docs"

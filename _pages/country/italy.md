@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Италию"
-layout: page
+layout: country
 permalink: /country/italy
 sidebar:
   nav: "docs"

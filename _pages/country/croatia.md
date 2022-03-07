@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Хорватию"
-layout: page
+layout: country
 permalink: /country/croatia
 sidebar:
   nav: "docs"

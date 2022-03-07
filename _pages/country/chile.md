@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Чили"
-layout: page
+layout: country
 permalink: /country/chile
 sidebar:
   nav: "docs"

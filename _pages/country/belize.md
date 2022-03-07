@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Белиз"
-layout: page
+layout: country
 permalink: /country/belize
 sidebar:
   nav: "docs"

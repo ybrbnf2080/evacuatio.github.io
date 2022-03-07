@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Индию"
-layout: page
+layout: country
 permalink: /country/india
 sidebar:
   nav: "docs"

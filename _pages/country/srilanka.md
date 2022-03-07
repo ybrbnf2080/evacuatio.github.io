@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать на Шри-Ланку"
-layout: page
+layout: country
 permalink: /country/srilanka
 sidebar:
   nav: "docs"

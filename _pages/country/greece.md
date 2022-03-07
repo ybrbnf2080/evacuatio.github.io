@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Грецию"
-layout: page
+layout: country
 permalink: /country/greece
 sidebar:
   nav: "docs"

@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Иорданию"
-layout: page
+layout: country
 permalink: /country/jordan
 sidebar:
   nav: "docs"

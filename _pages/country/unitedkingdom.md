@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Соединенное Королевство"
-layout: page
+layout: country
 permalink: /country/unitedkingdom
 sidebar:
   nav: "docs"

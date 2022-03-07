@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Бразилию"
-layout: page
+layout: country
 permalink: /country/brazil
 sidebar:
   nav: "docs"

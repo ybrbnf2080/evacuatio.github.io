@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Коста-Рику"
-layout: page
+layout: country
 permalink: /country/costarica
 sidebar:
   nav: "docs"

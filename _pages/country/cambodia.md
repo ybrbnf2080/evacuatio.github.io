@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Камбоджу"
-layout: page
+layout: country
 permalink: /country/cambodia
 sidebar:
   nav: "docs"

@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Китай"
-layout: page
+layout: country
 permalink: /country/china
 sidebar:
   nav: "docs"

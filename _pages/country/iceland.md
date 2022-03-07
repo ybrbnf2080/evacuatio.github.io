@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Исландию"
-layout: page
+layout: country
 permalink: /country/iceland
 sidebar:
   nav: "docs"

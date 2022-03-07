@@ -562,3 +562,18 @@ body {
     }
   }
 }
+
+.link-to-github{
+  font-weight: bold;
+  background-color: #313131;
+  padding: 14px;
+  border-radius: 10px;
+  display: inline;
+  a:visited, a, a:active{
+    color: white;
+    text-decoration: none;
+  }
+  img{
+    padding-right: 5px;
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Катар"
-layout: page
+layout: country
 permalink: /country/qatar
 sidebar:
   nav: "docs"
