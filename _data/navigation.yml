@@ -1,8 +1,9 @@
 main:
-  - title: "Google-таблица"
-    url: https://docs.google.com/spreadsheets/d/1vuoogP1nlUmw7ukAzaFD5Ck1Hp2oFY4Q25J89x4ZP3Y/edit?usp=sharing
+
   - title: "Шаблон страниц"
     url: /template
+  - title: "Telegram-канал"
+    url: https://t.me/evacuatio_github_io
 
 docs:
   - title: Страны по ИЧР
