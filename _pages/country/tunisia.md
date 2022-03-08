@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Тунис"
-layout: page
+layout: country
 permalink: /country/tunisia
 sidebar:
   nav: "docs"

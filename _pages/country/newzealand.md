@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Новую Зеландию"
-layout: page
+layout: country
 permalink: /country/newzealand
 sidebar:
   nav: "docs"

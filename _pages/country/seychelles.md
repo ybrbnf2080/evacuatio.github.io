@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать на Сейшельские острова"
-layout: page
+layout: country
 permalink: /country/seychelles
 sidebar:
   nav: "docs"

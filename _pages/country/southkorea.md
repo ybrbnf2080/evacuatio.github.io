@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Южную Корею"
-layout: page
+layout: country
 permalink: /country/southkorea
 sidebar:
   nav: "docs"

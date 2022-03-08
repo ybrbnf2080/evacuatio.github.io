@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Турцию"
-layout: page
+layout: country
 permalink: /country/turkey
 sidebar:
   nav: "docs"

@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Венгрию"
-layout: page
+layout: country
 permalink: /country/hungary
 sidebar:
   nav: "docs"

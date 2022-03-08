@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Румынию"
-layout: page
+layout: country
 permalink: /country/romania
 sidebar:
   nav: "docs"

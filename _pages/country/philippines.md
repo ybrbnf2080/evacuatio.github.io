@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Филиппины"
-layout: page
+layout: country
 permalink: /country/philippines
 sidebar:
   nav: "docs"

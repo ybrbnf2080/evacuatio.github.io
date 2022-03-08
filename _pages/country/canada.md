@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Канаду"
-layout: page
+layout: country
 permalink: /country/canada
 sidebar:
   nav: "docs"

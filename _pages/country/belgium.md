@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Бельгию"
-layout: page
+layout: country
 permalink: /country/belgium
 sidebar:
   nav: "docs"

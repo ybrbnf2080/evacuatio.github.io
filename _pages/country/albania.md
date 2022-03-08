@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Албанию"
-layout: page
+layout: country
 permalink: /country/albania
 sidebar:
   nav: "docs"

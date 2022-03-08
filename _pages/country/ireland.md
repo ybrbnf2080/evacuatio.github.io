@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Ирландию"
-layout: page
+layout: country
 permalink: /country/ireland
 sidebar:
   nav: "docs"

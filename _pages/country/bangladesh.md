@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Бангладеш"
-layout: page
+layout: country
 permalink: /country/bangladesh
 sidebar:
   nav: "docs"

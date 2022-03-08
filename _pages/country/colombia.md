@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Колумбию"
-layout: page
+layout: country
 permalink: /country/colombia
 sidebar:
   nav: "docs"

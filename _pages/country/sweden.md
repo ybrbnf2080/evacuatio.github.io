@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Швецию"
-layout: page
+layout: country
 permalink: /country/sweden
 sidebar:
   nav: "docs"

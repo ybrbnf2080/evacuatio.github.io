@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Боснию и Герцеговину"
-layout: page
+layout: country
 permalink: /country/bosniaandherzegovina
 sidebar:
   nav: "docs"

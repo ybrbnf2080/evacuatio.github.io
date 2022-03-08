@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Латвию"
-layout: page
+layout: country
 permalink: /country/latvia
 sidebar:
   nav: "docs"

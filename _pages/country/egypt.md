@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Египет"
-layout: page
+layout: country
 permalink: /country/egypt
 sidebar:
   nav: "docs"

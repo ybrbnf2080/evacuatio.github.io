@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Германию"
-layout: page
+layout: country
 permalink: /country/germany
 sidebar:
   nav: "docs"

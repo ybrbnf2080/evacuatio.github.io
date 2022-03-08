@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Северную Македонию"
-layout: page
+layout: country
 permalink: /country/northmacedonia
 sidebar:
   nav: "docs"

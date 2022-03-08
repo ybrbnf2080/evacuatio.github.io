@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Мексику"
-layout: page
+layout: country
 permalink: /country/mexico
 sidebar:
   nav: "docs"

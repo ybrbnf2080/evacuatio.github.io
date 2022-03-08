@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Таиланд"
-layout: page
+layout: country
 permalink: /country/thailand
 sidebar:
   nav: "docs"

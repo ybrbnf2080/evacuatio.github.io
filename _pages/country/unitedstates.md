@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Соединенные Штаты"
-layout: page
+layout: country
 permalink: /country/unitedstates
 sidebar:
   nav: "docs"

@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Уругвай"
-layout: page
+layout: country
 permalink: /country/uruguay
 sidebar:
   nav: "docs"

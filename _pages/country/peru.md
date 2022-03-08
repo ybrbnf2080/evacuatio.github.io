@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Перу"
-layout: page
+layout: country
 permalink: /country/peru
 sidebar:
   nav: "docs"

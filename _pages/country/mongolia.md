@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Монголию"
-layout: page
+layout: country
 permalink: /country/mongolia
 sidebar:
   nav: "docs"

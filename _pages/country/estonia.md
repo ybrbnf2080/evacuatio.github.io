@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Эстонию"
-layout: page
+layout: country
 permalink: /country/estonia
 sidebar:
   nav: "docs"

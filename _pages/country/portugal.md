@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Португалию"
-layout: page
+layout: country
 permalink: /country/portugal
 sidebar:
   nav: "docs"

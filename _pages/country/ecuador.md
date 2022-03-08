@@ -1,6 +1,6 @@
 ---
 title: "Как иммигрировать в Эквадор"
-layout: page
+layout: country
 permalink: /country/ecuador
 sidebar:
   nav: "docs"
