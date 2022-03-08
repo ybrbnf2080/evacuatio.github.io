@@ -4,8 +4,8 @@ minimal_mistakes_skin: "contrast"
 ### Site Settings ###
 
 locale: "ru-RU"
-title: "ИНФОРМАЦИЯ ДЛЯ БЕЖЕНЦЕВ"
-title_separator: "|"
+title: ""
+title_separator: ""
 subtitle: "Открытый информационный wiki-проект"
 #description             :
 url: "https://evacuatio.github.io"
