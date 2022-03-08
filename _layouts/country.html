@@ -14,11 +14,18 @@ include breadcrumbs.html %} {% endunless %} {% endif %}
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %} {%
     endunless %} {{ content }}
-    
-    <div class="link-to-github">
-      <img src="/assets/images/reduct.png" alt="" style="">
-      <a  href="https://github.com/evacuatio/evacuatio.github.io/edit/main/_pages/{{ page.permalink }}.md">Редактировать страницу на GitHub</a>
+    <div class="link-to">
+      <a href="https://github.com/evacuatio/evacuatio.github.io/edit/main/_pages/{{ page.permalink }}.md" class=" github">
+        <img src="/assets/images/reduct.png" alt="" style="">
+        Редактировать страницу на GitHub
+      </a>
+      <a  href="https://t.me/+FHi3FnJaoWJkMDAx" class="telegram">
+        <img src="/assets/images/telegram.png" alt="" style="">
+        Группа волонтеров
+      </a>
+
+
+
     </div>
-    
   </div>
 </div>

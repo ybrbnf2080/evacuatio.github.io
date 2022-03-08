@@ -1,5 +1,5 @@
 ---
-title: "ИНФОРМАЦИЯ ДЛЯ БЕЖЕНЦЕВ. Открытый wiki-проект."
+title: "WIKI-ИММИГРАЦИЯ Свободный информационный проект"
 layout: page
 permalink: /index
 sidebar:
